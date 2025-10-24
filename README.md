@@ -1,7 +1,7 @@
 # 📚 Corte 2 – Entrega Práctica 3 (Grupo 1)
 
 ## 👨‍💻 Autor
-**Nombre:** Daniel  
+**Nombre:** Daniel Martinez 
 **Programa:** Ingeniería Electrónica  
 
 ---
